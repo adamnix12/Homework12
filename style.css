@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 350px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 60px;
+    margin: 20px;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+#plus {
+    background-color: limegreen;
+    color: white;
+}
+
+#minus {
+    background-color: red;
+    color: white;
+}
+
+#reset {
+    background-color: dimgray;
+    color: white;
+    margin-top: 15px;
+}
+
+p {
+    font-size: 16px;
+}
